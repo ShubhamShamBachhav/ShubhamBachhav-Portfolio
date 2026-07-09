@@ -152,7 +152,7 @@ export default function Navbar() {
             <Image src="/logo.png" alt="logo" width={25} height={25} />
           </div> */}
           <div className="md:hidden select-none">
-            Shantanu Valekar
+            Shubham Bachhav
           </div>
           {/* DESKTOP LINKS */}
           <ul className="hidden md:flex gap-10 px-10">

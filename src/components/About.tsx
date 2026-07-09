@@ -8,7 +8,7 @@ export default function About() {
   const sectionRef = useRef<HTMLDivElement>(null);
   const [inView, setInView] = useState(false);
   const [scrollOffset, setScrollOffset] = useState(0);
-
+  
   useEffect(() => {
     if (!sectionRef.current) return;
 
@@ -116,12 +116,6 @@ export default function About() {
 
             <div className="flex flex-wrap gap-3">
               {[
-                // "Full-Stack Web Development",
-                // "Java & Spring Boot Development",
-                // "React.js Frontend Development",
-                // "Responsive UI Development",
-                // "Reusable UI Component Libraries",
-                // "Performance Optimization"
                   "Full-Stack Web Development",
                   "Java & Spring Boot Backend Development",
                   "RESTful API Development",
