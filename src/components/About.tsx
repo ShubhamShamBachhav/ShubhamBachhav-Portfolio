@@ -100,13 +100,26 @@ export default function About() {
           </h3>
 
           <p className="mt-6 text-gray-400 leading-relaxed w-full">
-            I am a Java Full Stack Developer with 2.4 years of experience in building scalable and user-friendly web applications using Spring Boot and React.js. I enjoy working on both frontend and backend, creating complete solutions that are efficient, secure, and easy to use.
+            I’m a Java Full Stack Developer with 2.4+ years of experience building scalable, high-performance web applications using Spring Boot and React.js.
 
-            I have hands-on experience in REST APIs, Microservices, and JWT-based authentication, along with building modern Single Page Applications (SPA) using React. I focus on writing clean code, improving performance, and delivering real-world solutions that actually make a difference.
+                I specialize in developing end-to-end solutions—from designing efficient backend architectures to creating responsive and optimized user interfaces. My focus is on delivering real business impact through performance optimization, clean architecture, and seamless user experience.
 
-            I have worked on projects like Hospital Management System and E-Commerce Platform, where I contributed across the full stack and improved system performance and user experience.
+                In my experience, I have:
 
-            I am always eager to learn new technologies, improve my skills, and take on challenges that help me grow as a developer.          </p>
+                Improved application performance by up to 35%
+                Reduced API response time by 25–30%
+                Built secure systems using JWT authentication and RBAC
+                Delivered features that increased user engagement by 40%
+                💻 Technical Skills
+                Backend: Java, Spring Boot, REST APIs, Microservices
+                Frontend: React.js, Redux Toolkit, Tailwind CSS
+                Database: MySQL, PostgreSQL
+                Tools: Git, Maven, Postman, JIRA
+
+                I follow strong engineering principles like OOP, clean architecture, and scalable system design, and I’m comfortable working in Agile environments.
+
+                I enjoy solving complex problems and building systems that are not just functional—but efficient, secure, and scalable.
+          </p>
 
           {/* WHAT I DO */}
           <div className="mt-10">
