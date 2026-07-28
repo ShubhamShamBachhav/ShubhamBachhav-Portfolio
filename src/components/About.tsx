@@ -158,7 +158,7 @@ export default function About() {
               <div className="flex px-6 py-4 gap-3 items-center rounded-xl bg-white/5 border border-white/10 uppercase tracking-widest text-md hover:bg-white/10 transition text-center">
                 <Download />
                 <a
-                  href="/shubham_bachhav_resume.pdf"
+                  href="/shubham_bachhav_full_stack_Java_resume.pdf"
                   target="_blank"
                   rel="noopener noreferrer"
                 >
